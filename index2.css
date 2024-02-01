@@ -42,6 +42,7 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -138,7 +139,6 @@ input[type="submit"] {
   border: none;
   cursor: pointer;
 }
-
 
 .displayNone {
   display: none;

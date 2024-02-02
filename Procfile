@@ -1,1 +1,2 @@
-web: sigsci/bin/sigsci-start node index.js
+# web: sigsci/bin/sigsci-start node index.js
+web: node index.js

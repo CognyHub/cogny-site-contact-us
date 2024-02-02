@@ -50,7 +50,7 @@ const app = express()
 </style>
 <div id="mc_embed_signup">
     <form action="https://cognyhub.us21.list-manage.com/subscribe/post?u=ded50c5ac5f0a472c925dd58b&amp;id=6816eb4a0a&amp;f_id=0049f7e6f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h2>Inscrever</h2>
+        <div id="mc_embed_signup_scroll"><h2>Inscreva no meu canal!</h2>
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
             <div class="mc-field-group"><label for="mce-EMAIL">Endereço de e-mail <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">Nome </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Sobrenome </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div>
 <div hidden=""><input type="hidden" name="tags" value="2975397"></div>

@@ -81,6 +81,7 @@ const app = express()
     })
 
     const port = parseInt(process.env.PORT ? process.env.PORT : 3000)
+    // const port = 3000;
 
     app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
